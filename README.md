@@ -5,12 +5,12 @@
 ## About Me
 - College student
 - Accounting Assistant
-
+<!--
 ## My Techs
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-</div>
+</div-->
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -136,7 +136,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=sophialberton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -144,7 +144,7 @@
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophialberton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
 />
 
