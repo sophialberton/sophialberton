@@ -157,6 +157,7 @@
 
 <img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" />
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sophia_a_batata)
 ###
 
 
