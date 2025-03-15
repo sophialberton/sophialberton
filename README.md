@@ -136,7 +136,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=sophialberton&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br" 
   />
@@ -144,16 +144,20 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophialberton&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 
    <img 
      alt="GitHub Stats" 
-     height="228" 
+     height="287" 
      src="https://github-readme-activity-graph.vercel.app/graph?username=sophialberton&radius=10&theme=nord&area=true&order=5&hide_title=false&hide_border=true" 
      alt="activity-graph graph"  />
 </p>
+
+<img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!--aaa
