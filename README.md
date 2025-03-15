@@ -142,11 +142,12 @@
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophialberton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophialberton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+/>
+
 
 </p>
 <!--aaa
