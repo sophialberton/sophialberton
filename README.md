@@ -80,8 +80,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation"/>
 <!--img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman.svg" alt="Pacman animation" /-->
 
 
