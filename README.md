@@ -47,7 +47,7 @@
   <a href="https://open.spotify.com/user/sophia_a_batata">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sophia_a_batata&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pldjR4NHRxejV5azE5bjJlZHJyaXJxbjcyc2Z6cXVmcHd5a3o2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif"  />
+ <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM285NWFsOTl1dzc1OGhkNW9wYjU0eXg2Z2hxZzlzbDVkdTNpMW5mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8boMf1VXVHoJy/giphy.gif"  />
 </p>
 
 ###
