@@ -48,10 +48,26 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sophialberton&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sophialberton&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophialberton&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophialberton&radius=14&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+  <img 
+    src="https://streak-stats.demolab.com?user=sophialberton&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
+    height="160" 
+    alt="streak graph"  
+    />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sophialberton&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" 
+    height="160" 
+    alt="stats graph"  
+    />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sophialberton&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" 
+    height="180" 
+    alt="languages graph"  
+    />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sophialberton&radius=14&theme=one-dark&area=true&order=5&hide_border=true&hide_title=false" 
+    height="180" 
+    alt="activity-graph graph"  
+    />
 </div>
 
 ###
