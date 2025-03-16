@@ -1,4 +1,4 @@
-<h2>👋 Hi there, welcome to my Github profile</h2>
+## 👋 Hi there, welcome to my Github profile
 
 <p>
   My name is <strong>Sophia Picasky Alberton</strong> and I'm a Software Engineering Bachelor's student at PUCSC,<br/>
@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia) 
 
-### <h3>🤖 Linguagens e Tecnologias</h3>
+## 🤖 Linguagens e Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -45,7 +45,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
 </picture>-->
 
-<img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation"/>
 
 <br clear="both">
 
