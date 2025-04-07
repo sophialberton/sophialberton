@@ -2,7 +2,7 @@
 
 <p>
   My name is <strong>Sophia Picasky Alberton</strong> and I'm a Software Engineering Bachelor's student at PUCSC,<br/>
-  future developer, I'm from SC, Brazil 🇧🇷
+  future developer, I'm from SC, Brazil 🇧🇷!
 </p>
 
 ## 🌐 Socials:
