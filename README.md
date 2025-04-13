@@ -1,5 +1,5 @@
 ## 👋 Hi there, welcome to my Github profile
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&duration=3000&pause=500&color=540A7A&center=true&multiline=true&width=435&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
 <p>
   My name is <strong>Sophia Picasky Alberton</strong> and I'm a Software Engineering Bachelor's student at PUCSC,<br/>
   future developer, I'm from SC, Brazil 🇧🇷!
