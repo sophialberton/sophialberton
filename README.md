@@ -1,13 +1,17 @@
-## 👋 Hi there, welcome to my Github profile
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&duration=3000&pause=500&color=540A7A&center=true&multiline=true&width=435&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
-<p>
+<h1 align="center">Welcome to my Github profile 👋</h1>
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&duration=3000&pause=500&color=540A7A&center=true&multiline=true&width=435&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
+<p align="center">
 I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!
+</p>
 </<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia) 
+### 🌐 Socials:
 
-## 🤖 Linguagens e Tecnologias
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)
+
+### 🤖 Linguagens e Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
