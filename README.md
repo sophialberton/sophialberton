@@ -11,6 +11,8 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <p>
@@ -29,6 +31,8 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </p>
 
+---
+
 ### <h3>📊 Estatísticas</h3>
 
 <p style="display: flex; justify-content: center; gap: 10px;">
@@ -40,6 +44,8 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophialberton&radius=14&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="170" alt="activity-graph graph"  />
 </p>
 
+---
+
 ###
 
 <picture>
@@ -48,6 +54,7 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 <!--img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" /-->
 
 ###
@@ -60,7 +67,7 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
   </a>
  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVjZ3Y5anFqYWs0MDU2d21qNzBmN2cwMTFydXFraTBjcWtwM2libyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8boMf1VXVHoJy/giphy.gif"  />
 </p>
-
+---
 ###
 
 
