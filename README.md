@@ -3,14 +3,14 @@
 <!--img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
-
-<h1 align="center">Welcome to my Github profile 👋</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=3000&pause=500&color=AC46A1&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
 I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!
 </p>
 </<br/>
+
+---
 
 ### ・.・✫・ Find me here! 🌼꒱:
 
@@ -38,7 +38,7 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
 
 ---
 
-### <h3>📊 Estatísticas</h3>
+### ・.・✫・ Statistics 🌼꒱:
 
 <p style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://streak-stats.demolab.com?user=sophialberton&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" style="border-radius: 15px; alt="streak graph" />
