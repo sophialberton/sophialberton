@@ -67,6 +67,3 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
   </a>
  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVjZ3Y5anFqYWs0MDU2d21qNzBmN2cwMTFydXFraTBjcWtwM2libyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8boMf1VXVHoJy/giphy.gif"  />
 </p>
----
-
-
