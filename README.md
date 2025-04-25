@@ -1,19 +1,24 @@
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ac46a1&section=header&reversal=false&textBg=false"/>
+
+<!--img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
+
+<h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
+
 <h1 align="center">Welcome to my Github profile 👋</h1>
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&duration=3000&pause=500&color=540A7A&center=true&multiline=true&width=435&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=3000&pause=500&color=AC46A1&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
 I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!
 </p>
 </<br/>
 
-### 🌐 Socials:
+### ・.・✫・ Find me here! 🌼꒱:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ・.・✫・ Languages ​​and Technologies 🌼꒱:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -67,3 +72,6 @@ I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧
   </a>
  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVjZ3Y5anFqYWs0MDU2d21qNzBmN2cwMTFydXFraTBjcWtwM2libyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8boMf1VXVHoJy/giphy.gif"  />
 </p>
+
+
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ac46a1&section=footer&reversal=false&textBg=false"/>
