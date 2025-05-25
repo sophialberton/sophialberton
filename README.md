@@ -60,7 +60,7 @@
 </picture>
 
 ---
-<!--img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" /-->
+<img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation">
 
 ###
 
