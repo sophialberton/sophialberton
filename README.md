@@ -43,7 +43,7 @@
 
 
 <p style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=sophialberton&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" style="border-radius: 15px; alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=sophialberton&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" style="border-radius: 15px; alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=sophialberton&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" style="border-radius: 15px; alt="stats graph"  />
 </p>
 <p style="display: flex; justify-content: center; gap: 10px;">
