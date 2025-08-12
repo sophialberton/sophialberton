@@ -1,10 +1,10 @@
-<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ac46a1&section=header&reversal=false&textBg=false"/>
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A69AA4&section=header&reversal=false&textBg=false"/>
 
 <!--img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=3000&pause=500&color=AC46A1&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=3000&pause=500&color=A69AA4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
 <!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!-->
 </p>
@@ -12,13 +12,13 @@
 
 ---
 
-### ・.・✫・ Find me here! 🌼꒱:
+### ・.・✫・ Find me here! ・.・✫・꒱:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)
 
 ---
 
-### ・.・✫・ Languages ​​and Technologies 🌼꒱:
+### ・.・✫・ Languages ​​and Technologies ・.・✫・꒱:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -39,7 +39,7 @@
 
 ---
 
-### ・.・✫・ Statistics 🌼꒱:
+### ・.・✫・ Statistics ・.・✫・꒱:
 
 
 <p style="display: flex; justify-content: center; gap: 10px;">
@@ -78,4 +78,4 @@
 </p>
 
 
-<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ac46a1&section=footer&reversal=false&textBg=false"/>
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A69AA4&section=footer&reversal=false&textBg=false"/>
