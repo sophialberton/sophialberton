@@ -167,5 +167,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) <!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)-->
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sophialberton.sophialberton&right_color=darkslategray"  />
+</div>
+
 
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A69AA4&section=footer&reversal=false&textBg=false"/>
