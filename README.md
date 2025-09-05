@@ -4,7 +4,7 @@
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&duration=3000&pause=500&color=A69AA4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Sophia!%3E;-+Junior+Fullstack+Developer+-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=A69AA4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Sophia!%3E;-+Junior+Fullstack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
 <!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!-->
 </p>
@@ -15,17 +15,8 @@
 ### ✫・ Languages ​​and Technologies
 
 <p align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="animation: float 3s ease-in-out infinite;" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-  </kbd>
-  <kbd>
+
+ <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
@@ -36,6 +27,28 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
   </kbd>
+
+  <kbd>
+    <kbd>Frameworks | Backend </kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://devicon-website.vercel.app/api/express/original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/django/plain.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/spring/spring-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/graphql/plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="animation: float 3s ease-in-out infinite;" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+  </kbd>
+  
   
   <kbd>
     <kbd>Frameworks | Frontend </kbd>
@@ -47,15 +60,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/angular/angular-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
-  <kbd>
-    <kbd>Frameworks | Backend </kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://devicon-website.vercel.app/api/express/original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-    <img width="30px" src="https://devicon-website.vercel.app/api/django/plain.svg" style="animation: float 3s ease-in-out infinite;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/spring/spring-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-    <img width="30px" src="https://devicon-website.vercel.app/api/graphql/plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
-  </kbd>
+  
   <kbd>
     <kbd>Banco de Dados</kbd>
     <br>
