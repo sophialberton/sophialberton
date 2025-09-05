@@ -121,13 +121,14 @@
         <summary><b>EmailRH | Automação</b></summary>
         <br>
         <p>Um projeto atualmente apenas backend onde automatiza envios de email relacionado a aniversariantes dos colaboradores de nascimento e tempo de empresa.</p>
-        <p>
+		  
+✉️ [***Acessar repositório***](https://github.com/sophialberton/email-senior-graph-RH.git)<br>
+		  <p>
           <img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=react&logoColor=white" alt="Python">
         </p>
       </details>
   </tr>
 </table>
-
 
 ---
 
