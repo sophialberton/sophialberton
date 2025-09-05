@@ -4,7 +4,7 @@
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=3000&pause=500&color=A69AA4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3CHello+World!+I'm+Sophia!%2F%3E;-+Junior+Full-Stack+Developer+-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&duration=3000&pause=500&color=A69AA4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Sophia!%3E;-+Junior+Fullstack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
 <!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!-->
 </p>
@@ -12,15 +12,9 @@
 
 ---
 
-### ✫・ Find me here! 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) <!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)-->
-
----
-
 ### ✫・ Languages ​​and Technologies
 
-<!--p align="center">
+<p align="center">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -28,6 +22,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="animation: float 3s ease-in-out infinite;" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -37,45 +33,76 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Frameworks | Frontend </kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/vuejs/vuejs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/angular/angular-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
   <kbd>
-    <kbd>Frameworks</kbd>
+    <kbd>Frameworks | Backend </kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/express/original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/django/plain.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/spring/spring-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://devicon-website.vercel.app/api/graphql/plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
   <kbd>
     <kbd>Banco de Dados</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
   </kbd>
   <kbd>
     <kbd>DevOps e Infraestrutura</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
-</p-->
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+   <kbd>
+    <kbd>Computação na Nuvem</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="animation: float 3s ease-in-out infinite;" />
+  </kbd>
+
+   <kbd>
+    <kbd>Testes</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+
+   <kbd>
+    <kbd>Segurança da Informação</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+
+<kbd>
+    <kbd>Metodologias</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="animation: float 3s ease-in-out infinite;" />
+  </kbd>
+  
 </p>
 
 ---
@@ -133,6 +160,12 @@
   </a>
  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVjZ3Y5anFqYWs0MDU2d21qNzBmN2cwMTFydXFraTBjcWtwM2libyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8boMf1VXVHoJy/giphy.gif"  />
 </p>
+
+---
+
+### ✫・ Find me here! 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guaphia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-picasky-alberton) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/guaphia) <!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guaphia)-->
 
 
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A69AA4&section=footer&reversal=false&textBg=false"/>
