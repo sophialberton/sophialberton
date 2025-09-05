@@ -20,14 +20,55 @@
 
 ### ✫・ Languages ​​and Technologies
 
+<!--p align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="animation: float 3s ease-in-out infinite;" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+  <kbd>
+    <kbd>Frameworks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+  <kbd>
+    <kbd>Banco de Dados</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+  <kbd>
+    <kbd>DevOps e Infraestrutura</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/discordjs/discordjs-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mongoose/mongoose-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+</p-->
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
