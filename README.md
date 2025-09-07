@@ -61,13 +61,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
   
-  <kbd>
-    <kbd>Banco de Dados</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="animation: float 3s ease-in-out infinite;" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
-  </kbd>
+  
   <kbd>
     <kbd>DevOps e Infraestrutura</kbd>
     <br>
@@ -77,13 +71,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
   </kbd>
 
-   <kbd>
-    <kbd>Computação na Nuvem</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="animation: float 3s ease-in-out infinite;" />
-  </kbd>
-
+  
    <kbd>
     <kbd>Testes</kbd>
     <br>
@@ -99,6 +87,19 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="animation: float 3s ease-in-out infinite;" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1.5s;" />
+  </kbd>
+<kbd>
+    <kbd>Banco de Dados</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="animation: float 3s ease-in-out infinite;" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
+  </kbd>
+   <kbd>
+    <kbd>Computação na Nuvem</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="animation: float 3s ease-in-out infinite;" />
   </kbd>
 
 <kbd>
