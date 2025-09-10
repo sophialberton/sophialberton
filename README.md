@@ -125,7 +125,23 @@
 		  
 ✉️ [***Acessar repositório***](https://github.com/sophialberton/email-senior-graph-RH.git)<br>
 		  <p>
-          <img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=react&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        </p>
+      </details>
+  </tr>
+  <tr>
+    <td width="60%">
+      <details open>
+        <summary><b>Consultor Cep | Fullstack</b></summary>
+        <br>
+        <p>Projeto para consultar Cep, integra api com a interface intuitiva para o usuário</p>
+		  
+🌍 [***Acessar repositório***](https://github.com/sophialberton/consulta-cep.git)<br>
+		  <p>
+          <img src="https://img.shields.io/badge/Javascript-C084FC?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript">
+		  <img src="https://img.shields.io/badge/nodejs-C084FC?style=for-the-badge&logo=nodejs&logoColor=white" alt="Nodejs">
+		  <img src="https://img.shields.io/badge/html5-C084FC?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+ 		  <img src="https://img.shields.io/badge/CSS-C084FC?style=for-the-badge&logo=css&logoColor=white" alt="css">
         </p>
       </details>
   </tr>
