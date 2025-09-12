@@ -116,6 +116,19 @@
 ### ✫・ Projects
 
 <table>
+	<tr>
+    <td width="60%">
+      <details open>
+        <summary><b>Consultor de Precificação Freelnacer | Frontend</b></summary>
+        <br>
+        <p>Ajuda a freelancer calcular seu valor conforme necessidades</p>
+		  
+✉️ [***Acessar site***]([https://github.com/sophialberton/email-senior-graph-RH.git](https://l1nq.com/consultor-precificacao-freelancer))<br>
+		  <p>
+          <img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        </p>
+      </details>
+  </tr>
   <tr>
     <td width="60%">
       <details open>
