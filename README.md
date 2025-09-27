@@ -122,7 +122,7 @@
         <br>
         <p>Site em desenvolvimento para ser meu portifolio web.</p>
 		  
-✉️ [***Acessar repositório***](https://github.com/sophialberton/portifolio.git)<br>
+✉️ [***Acessar Site***](https://sophialberton.github.io/portifolio/)<br>
 		  <p>
           <img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         </p>
