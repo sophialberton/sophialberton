@@ -124,7 +124,9 @@
 		  
 ✉️ [***Acessar Site***](https://sophialberton.github.io/portifolio/)<br>
 		  <p>
-          <img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+		  <img src="https://img.shields.io/badge/Javascript-C084FC?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript">
+		  <img src="https://img.shields.io/badge/html5-C084FC?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+ 		  <img src="https://img.shields.io/badge/CSS-C084FC?style=for-the-badge&logo=css&logoColor=white" alt="css">
         </p>
       </details>
   </tr>
