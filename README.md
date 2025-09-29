@@ -1,10 +1,10 @@
-<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A69AA4&section=header&reversal=false&textBg=false"/>
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9BADC4&section=header&reversal=false&textBg=false"/>
 
 <!--img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=A69AA4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Sophia!%3E;-+Junior+Fullstack+Developer+-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=9BADC4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Sophia!%3E;-+Junior+Fullstack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
 <!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!-->
 </p>
@@ -218,4 +218,4 @@
 </div>
 
 
-<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A69AA4&section=footer&reversal=false&textBg=false"/>
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9BADC4&section=footer&reversal=false&textBg=false"/>
