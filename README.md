@@ -12,6 +12,17 @@
 
 ---
 
+### ✫・ Statistics 
+
+
+<p style="display: flex; justify-content: center; gap: 10px;">
+<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=sophialberton&theme=transparent&hide_border=true&border_radius=5&order=3" height="160" style="border-radius: 15px; alt="stats graph" />
+<img src= "https://github-readme-stats.vercel.app/api?username=sophialberton&hide_title=true&hide_rank=false&show_icons=true&&theme=transparent&hide_border=true&order=1" height="160" style="border-radius: 15px; alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophialberton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=transparent&hide_border=true&order=2" height="160" style="border-radius: 15px; alt="languages graph"  />
+</p>
+
+---
+
 ### ✫・ Languages ​​and Technologies
 
 <p align="center">
@@ -174,16 +185,7 @@
   </tr>
 </table>
 
----
-
-### ✫・ Statistics 
-
-
-<p style="display: flex; justify-content: center; gap: 10px;">
-<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=sophialberton&theme=transparent&hide_border=true&border_radius=5&order=3" height="160" style="border-radius: 15px; alt="stats graph" />
-<img src= "https://github-readme-stats.vercel.app/api?username=sophialberton&hide_title=true&hide_rank=false&show_icons=true&&theme=transparent&hide_border=true&order=1" height="160" style="border-radius: 15px; alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophialberton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=transparent&hide_border=true&order=2" height="160" style="border-radius: 15px; alt="languages graph"  />
-</p>
+--- 
 
 ###
 
