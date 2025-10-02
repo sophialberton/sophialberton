@@ -170,7 +170,7 @@
   <tr>
     <td width="60%">
       <details open>
-        <summary><b>Consultor Cep | Fullstack</b></summary>
+        <summary><b>Consultor Cep | Fullstack </b></summary>
         <br>
         <p>Projeto para consultar Cep, integra api com a interface intuitiva para o usuário</p>
 		  
