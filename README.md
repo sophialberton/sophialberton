@@ -40,7 +40,7 @@
   </kbd>
 
   <kbd>
-    <kbd>Frameworks | Backend </kbd>
+    <kbd>Frameworks | Backend</kbd>
     <br>
     <br>
     <img width="30px" src="https://devicon-website.vercel.app/api/express/original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
