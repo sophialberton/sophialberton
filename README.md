@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=9BADC4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Sophia!%3E;-+Junior+Fullstack+Developer+-" alt="Typing SVG" /></a>
 <p align="center">
-<!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil 🇧🇷!-->
+<!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil !-->
 </p>
 </<br/>
 
