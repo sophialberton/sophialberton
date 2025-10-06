@@ -62,7 +62,7 @@
   
   
   <kbd>
-    <kbd>Frameworks | Frontend </kbd>
+    <kbd>Frameworks | Frontend</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="animation: float 3s ease-in-out infinite; animation-delay: 1s;" />
