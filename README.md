@@ -1,6 +1,6 @@
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9BADC4&section=header&reversal=false&textBg=false"/>
 
-<!--img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
+<!--img width="40%" rc="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 <h6 align="left">“The idea of eternity is impossible, but the idea of an instant lasts forever.”</h6-->
 <p align="center">
