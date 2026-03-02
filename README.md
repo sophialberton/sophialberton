@@ -174,7 +174,7 @@
         <br>
         <p>Projeto para consultar Cep, integra api com a interface intuitiva para o usuário</p>
 		  
-🌍 [***Acessar repositório***](https://github.com/sophialberton/consulta-cep.git)<br>
+🌍 [***Acessar repositório***](https://github.com/sophialberton/consultor-cep.git)<br>
 		  <p>
           <img src="https://img.shields.io/badge/Javascript-949ba4?style=for-the-badge&logo=Javascript&logoColor=white" alt="Javascript">
 		  <img src="https://img.shields.io/badge/nodejs-949ba4?style=for-the-badge&logo=nodejs&logoColor=white" alt="Nodejs">
