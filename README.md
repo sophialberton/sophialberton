@@ -148,7 +148,7 @@
         <br>
         <p>Ajuda a freelancer calcular seu valor conforme necessidades</p>
 		  
-✉️ [***Acessar site***](https://l1nq.com/consultor-precificacao-freelancer)<br>
+✉️ [***Acessar site***](https://sophialberton.github.io/consultor-precificacao-freelancer/)<br>
 		  <p>
           <img src="https://img.shields.io/badge/Python-949ba4?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         </p>
